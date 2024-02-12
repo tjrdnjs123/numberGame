@@ -18,6 +18,9 @@ h1 {
 #chance-area, #result-area {
     margin-bottom: 10px;
     font-size: 18px;
+    background-color: #ffc107; 
+    padding: 10px; 
+    border-radius: 5px; 
 }
 
 #user-input {
@@ -49,6 +52,8 @@ h1 {
     font-size: 20px;
     font-weight: bold;
     color: #333;
+    background-color: #2196F3;
+    color: white; 
 }
 
 
