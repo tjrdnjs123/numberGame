@@ -58,6 +58,7 @@ function reset(){
     userInput.value=""
     pickRandomNum()
     resultArea.textContent = "결과값이 이곳에 나옵니다"
+    history = []
     
     
 }function empty(){
